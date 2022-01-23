@@ -2,7 +2,7 @@
 
 🙌 I'm a young developper <br>
 
-📟 cybersecurity enjoyer <br>
+📟 Cybersecurity enjoyer <br>
 🪙 Finances lover <br>
 👾 Gaming adict <br>
 
