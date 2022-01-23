@@ -1,6 +1,8 @@
 ### Welcome on my GitHub 👾
 
-🙌 About me: Young developper & cybersecurity enjoyer <br>
+🙌 A bit about me : 
+      Young developper & cybersecurity enjoyer <br>
+      
 🪙 Finances lover <br>
 👾 Gaming adict <br>
 
