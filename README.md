@@ -7,5 +7,3 @@
 👾 Gaming adict <br>
 
 📫 Contact me: contact@mosembik.fr
-
-<img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mosembik&show_icons=true&theme=tokyonight">
