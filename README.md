@@ -21,3 +21,12 @@
     </td>
  </tr>
 </table>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=black" alt="Python">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-C++-white?logo=cplusplus&logoColor=black" alt="C++">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-PHP-white?logo=php&logoColor=black" alt="PHP">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Symfony-white?logo=symfony&logoColor=black" alt="Symfony">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=black" alt="MySQL">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Oracle DB-white?logo=oracle&logoColor=black" alt="OracleDB">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Bash-white?logo=gnubash&logoColor=black" alt="Bash">&nbsp;&nbsp;
+</div>
