@@ -23,10 +23,10 @@
 </table>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=black&link=https://www.python.org/" alt="Python">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Bash-white?logo=gnubash&logoColor=black&link=https://tiswww.case.edu/php/chet/bash/bashtop.html" alt="Bash">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-C++-white?logo=cplusplus&logoColor=black&link=https://www.cplusplus.com/" alt="C++">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-PHP-white?logo=php&logoColor=black&link=https://www.php.net/" alt="PHP">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Symfony-white?logo=symfony&logoColor=black&link=https://symfony.com/" alt="Symfony">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=black&link=https://www.mysql.com/" alt="MySQL">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Oracle DB-white?logo=oracle&logoColor=black&link=https://www.oracle.com/fr/database/" alt="OracleDB">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Bash-white?logo=gnubash&logoColor=black&link=https://tiswww.case.edu/php/chet/bash/bashtop.html" alt="Bash">&nbsp;&nbsp;
 </div>
