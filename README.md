@@ -8,7 +8,7 @@
     <td>
       <div align="left">
         <p>
-          🙌 I'm a young developper <br>
+          🙌 Young DevOps <br>
           📟 Cybersecurity enjoyer <br>
           🪙 Finances lover <br>
           👾 Gaming adict <br><br>
