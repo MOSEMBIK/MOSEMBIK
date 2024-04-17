@@ -12,7 +12,7 @@
           📟 Cybersecurity enjoyer <br>
           🪙 Finances lover <br>
           👾 Gaming adict <br><br>
-          📫 Contact me: <a href="mailto:contact@mosembik.fr">contact@mosembik.fr<a>
+          📫 Contact me: <a href="mailto:mosembik.dev@gmail.com">mosembik.dev@gmail.com<a>
         </p>
       </div>
     </td>
